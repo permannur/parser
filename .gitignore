@@ -1,0 +1,10 @@
+main
+parser
+.DS_Store
+vendor/
+key.bin
+.idea/
+public/
+.vscode/
+daemon.log
+.scannerwork
